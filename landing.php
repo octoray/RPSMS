@@ -31,22 +31,22 @@
 <ul id="menu">
     <li>Offers
         <ul>
-            <li><a href="/staging/landing.php">HOME (The Taken King)</a></li>
-            <li><a href="/staging/EXPANSION1.php">EXPANSION I Offer</a></li>
-            <li><a href="/staging/EXPANSION2.php">EXPANSION II Offer</a></li>
+            <li><a href="/staging/landing.php">Rockets 1970's</a></li>
+            <li><a href="/staging/EXPANSION1.php">Rockets 1980's</a></li>
+            <li><a href="/staging/EXPANSION2.php">Rockets 1990's</a></li>
         </ul>
     </li>
-    <li>The Taken King Offer
+    <li>1970's Specials
         <ul>
-            <li><a href="/staging/100.php">Buy 100 In-Game Credits</a></li>
-            <li><a href="/staging/500.php">Buy 500 In-Game Credits</a></li>
-            <li><a href="/staging/2000.php">Buy 2000 In-Game Credits</a></li>
+            <li><a href="/staging/100.php">Helmets 1970's</a></li>
+            <li><a href="/staging/500.php">Space Suits 1970's</a></li>
+            <li><a href="/staging/2000.php">Space Boots 1970's</a></li>
         </ul>
     </li>
-    <li>Destiny Competitions
+    <li>Other
         <ul>
-            <li><a href="/staging/wine.php">WIN The Expansion Packs</a></li>
-            <li><a href="/staging/wint.php">WIN Free T-Shirt</a></li>
+            <li><a href="/staging/wine.php">Jet Pack</a></li>
+            <li><a href="/staging/wint.php">UFO Misc Parts</a></li>
         </ul>
     </li>
 </ul>
@@ -63,8 +63,8 @@
 <div class="block_66" data-pfi-area="true" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
     <img src="http://www.deepspace.ucsb.edu/wp-content/uploads/2015/04/NASA-LOGO_1-on-white-background.png" class="banner" alt="Header"> <br>
-    <a href="/staging/test2.php"><h2 style="color: deepskyblue">Available Now!</h2>
-        <h2 style="color: deepskyblue">Click Here to Purchase</h2></a><br><br>
+    <a href="/staging/test2.php"><h2 style="color: deepskyblue">Buy A Space Shuttle Now</h2>
+        <h2 style="color: deepskyblue">Click Here to Purchase for £4.50</h2></a><br><br>
 
 </div>
 
