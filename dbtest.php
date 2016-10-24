@@ -1,5 +1,5 @@
 <?php
-$myFile = '/usr/share/nginx/demorpsms/inproclog.txt';
+$myFile = '/home/ec2-user/inproclog.txt';
 if (!file_exists($myFile)) {
     print 'File not found';
 }
