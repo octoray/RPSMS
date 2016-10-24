@@ -63,8 +63,8 @@
 <div class="block_66" data-pfi-button="true" data-pfi-button-id="purchase-main01" data-pfi-reference="dwpurchase01" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
     <img src="http://www.deepspace.ucsb.edu/wp-content/uploads/2015/04/NASA-LOGO_1-on-white-background.png" class="banner" alt="Header"> <br>
-    <a href="/staging/test2.php"><h2 style="color: deepskyblue">Buy A Space Shuttle Now</h2>
-        <h2 style="color: deepskyblue">Click Here to Purchase for £4.50</h2></a><br><br>
+    Buy A Space Shuttle Now
+        <h2 style="color: deepskyblue">Buy A Space Shuttle Now - Click Here to Purchase for £4.50</h2></a><br><br>
 </div>
 
 <br>
