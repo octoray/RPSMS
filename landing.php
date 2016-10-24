@@ -60,25 +60,13 @@
 </div>
 
 <!-- 2nd block  -->
-<div class="block_66" data-pfi-area="true" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
+<div class="block_66" data-pfi-button="true" data-pfi-button-id="purchase-main01" data-pfi-reference="dwpurchase01" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
     <img src="http://www.deepspace.ucsb.edu/wp-content/uploads/2015/04/NASA-LOGO_1-on-white-background.png" class="banner" alt="Header"> <br>
     <a href="/staging/test2.php"><h2 style="color: deepskyblue">Buy A Space Shuttle Now</h2>
         <h2 style="color: deepskyblue">Click Here to Purchase for £4.50</h2></a><br><br>
-
 </div>
 
-
-<!-- 3nd block  -->
-<div class="block_2">
-    <video class="video" width="100%"  poster="http://<?php echo $_SERVER['SERVER_NAME'];?>/staging/images/image1.jpg" controls >
-        <source src="http://<?php echo $_SERVER['SERVER_NAME'];?>/staging/video/des1.mp4" type="video/mp4">
-        Your browser does not support HTML5 video.
-    </video>
-</div>
-
-    <br>
-<br>
 <br>
 <br>
 
