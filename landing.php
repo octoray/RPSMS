@@ -79,7 +79,6 @@
     <?php require("./phpdb/phpdebug.php"); ?>
 
 </div>
-<?php require("./phpdb/mainpage.php"); ?>
 
 </body>
 </html>
