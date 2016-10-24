@@ -12,7 +12,7 @@ if ($conn->connect_error) {
 }
 
 $sql = 'INSERT INTO inproc (inbound, response)
-VALUES ("'.$_SERVER.'", "'.$data_json.'")';
+VALUES ("b", "a")';
 
 if ($conn->query($sql) === TRUE) {
     echo "New record created successfully";
