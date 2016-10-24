@@ -62,7 +62,7 @@
 <!-- 2nd block  -->
 <div class="block_66" data-pfi-area="true" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
-    <img src="http://65.media.tumblr.com/6e220205ca793aa4d59904262694b584/tumblr_mv1zs1rakd1si316qo1_400.png" class="banner" alt="Header"> <br>
+    <img src="http://www.deepspace.ucsb.edu/wp-content/uploads/2015/04/NASA-LOGO_1-on-white-background.png" class="banner" alt="Header"> <br>
     <a href="/staging/test2.php"><h2 style="color: deepskyblue">Available Now!</h2>
         <h2 style="color: deepskyblue">Click Here to Purchase</h2></a><br><br>
 
