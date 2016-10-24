@@ -55,14 +55,14 @@
 <!-- 1st block /Destiny logo text overlay -->
 <div class="block_1">
     <br>
-    <br><br><br>
+    <br><br><br><br><br><br>
     <br>
 </div>
 
 <!-- 2nd block  -->
 <div class="block_66" data-pfi-area="true" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
-    <img src="http://ridl.cfd.rit.edu/docs/posters/proposal%20posters/Logos%20and%20Images/NASA_Transparent.gif" class="banner" alt="Header"> <br>
+    <img src="http://65.media.tumblr.com/6e220205ca793aa4d59904262694b584/tumblr_mv1zs1rakd1si316qo1_400.png" class="banner" alt="Header"> <br>
     <a href="/staging/test2.php"><h2 style="color: deepskyblue">Available Now!</h2>
         <h2 style="color: deepskyblue">Click Here to Purchase</h2></a><br><br>
 
