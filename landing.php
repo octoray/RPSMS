@@ -5,7 +5,7 @@
 
     <meta name="viewport" content="width=device-width">
     <meta charset="UTF-8">
-    <base href="http://davidcontent.kittysglamour.net/" >
+    <base href="http://ec2-52-57-166-131.eu-central-1.compute.amazonaws.com/" >
     <!-- activate Menu -->
     <link rel="stylesheet" href="/slicknav/dist/slicknav.css">
     <link rel="stylesheet" href="/css/body.css" type="text/css">
