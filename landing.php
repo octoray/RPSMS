@@ -7,12 +7,12 @@
     <meta charset="UTF-8">
     <base href="http://ec2-52-57-166-131.eu-central-1.compute.amazonaws.com/" >
     <!-- activate Menu -->
-    <link rel="stylesheet" href="/slicknav/dist/slicknav.css">
-    <link rel="stylesheet" href="/css/body.css" type="text/css">
-    <link rel="stylesheet" href="/css/fonts.css" type="text/css">
+    <link rel="stylesheet" href="http://ec2-52-57-166-131.eu-central-1.compute.amazonaws.com/slicknav/dist/slicknav.css">
+    <link rel="stylesheet" href="http://ec2-52-57-166-131.eu-central-1.compute.amazonaws.com/css/body.css" type="text/css">
+    <link rel="stylesheet" href="http://ec2-52-57-166-131.eu-central-1.compute.amazonaws.com/css/fonts.css" type="text/css">
     <script   src="https://code.jquery.com/jquery-3.1.1.js"   integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="   crossorigin="anonymous"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
-    <script src="/slicknav/dist/jquery.slicknav.js"></script>
+    <script src="http://ec2-52-57-166-131.eu-central-1.compute.amazonaws.com/slicknav/dist/jquery.slicknav.js"></script>
 
 
 
