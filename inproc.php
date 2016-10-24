@@ -69,27 +69,29 @@ $data_json = json_decode($response, true);
 
 
 ?>
+
+
 <?php
+$servername = "104.199.52.29";
 $username = "root";
 $password = "Imimobile1!";
-$hostname = "104.199.52.29";
-$today1 = date("Y-m-d H:i:s");
-//connection to the database
-$dbhandle = mysql_connect($hostname, $username, $password)
-or die("Unable to connect to MySQL");
-//echo "Connected to MySQL<br>";
+$dbname = "test";
 
-mysql_select_db("test") or die(mysql_error());
-$r1 = array();
-// chart1
-$result1 = mysql_query('INSERT INTO `test`.`inproc` (`inbound`, `response`)
-VALUES
-("'.$_SERVER.'",
-"'.$data_json.'");')
-or die(mysql_error());
+// Create connection
+$conn = new mysqli($servername, $username, $password, $dbname);
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
 
+$sql = 'INSERT INTO inproc (inbound, response)
+VALUES ("'.$_SERVER.'", "'.$data_json.'")';
 
+if ($conn->query($sql) === TRUE) {
+    echo "New record created successfully";
+} else {
+    echo "Error: " . $sql . "<br>" . $conn->error;
+}
 
-
-mysql_close($dbhandle);
+$conn->close();
 ?>
