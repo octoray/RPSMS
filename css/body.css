@@ -1,0 +1,298 @@
+body {
+    background-color: black;
+    color: #ffffff;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-size: 100% 130%;
+    margin: 0px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+
+img.banner {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    /* height: 100px; */
+    margin-top: 25px;
+    margin-bottom: 10px;
+    /* text-align: center; */
+    /* align-content: center; */
+}
+
+
+img.banner_main {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    /* height: 100px; */
+    margin-top: 205px;
+    margin-bottom: 10px;
+    /* text-align: center; */
+    /* align-content: center; */
+}
+
+
+
+.slicknav_menu {
+    display:none;
+}
+
+@media screen and (max-width: 90em) {
+    /* #menu is the original menu */
+    .js #menu {
+        display:none;
+    }
+
+    .js .slicknav_menu {
+        display:block;
+    }
+}
+
+
+.Buy_now {
+    color: #ffffff;
+    text-align: center;
+    font-size: 11px;
+    margin-bottom: 10px;
+
+}
+
+.Buy_now_text {
+    color: #ffffff;
+    text-align: center;
+    font-size: 8px;
+
+}
+
+.game1 {
+    margin-top: 25px;
+    width: 60%;
+    height: 250px;
+    color: #ffffff;
+    font-size: 8px;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.Buy_now_text2 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 11px;
+
+
+}
+
+
+.footer {
+    color: #000000;
+    text-align: center;
+    font-size: 8px;
+    background-color: #ffffff;
+    opacity: 0.4;
+}
+
+.foot_logo  {
+    height: 25px;
+    color: #ffffff;
+    font-size: 8px;
+    display: block;
+    margin: 0 auto;
+    background-color: red;
+}
+
+
+
+.btn1 {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 13px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+.btn1:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+
+
+.block_1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 11px;
+    background-color: #000000;
+    padding-bottom: 20px;
+    background-image: url("http://orig10.deviantart.net/1e0e/f/2014/250/7/4/destiny_wallpaper_43_by_argolan-d7ya3vm.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-size: 100% 130%;
+    margin: 0px;
+
+}
+
+.block_2 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 11px;
+    background-color: #000000;
+    margin: 0px;
+}
+
+.block_3 {
+    color: #000000;
+    text-align: left;
+    font-size: 11px;
+    background-color: #ffffff;
+    margin: 0px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.block_4 {
+    color: #000000;
+    text-align: left;
+    font-size: 11px;
+    display: flex;
+}
+
+.block_5 {
+    color: #000000;
+    text-align: left;
+    font-size: 11px;
+    height: 50%;
+}
+
+.block_7 {
+    color: #000000;
+    text-align: left;
+    font-size: 11px;
+    height: 50%;
+}
+
+
+.block_6 {
+    background-image: url("http://octoraypfi.co.uk/images/bg.jpg");
+    width: 100%;
+    color: #ffffff;
+    text-align: left;
+    font-size: 11px;
+    display: inline-block;
+}
+
+.block_66 {
+    background-image: url("http://octoraypfi.co.uk/images/bg.jpg");
+    width: 100%;
+    color: #ffffff;
+    text-align: center;
+    font-size: 11px;
+    display: inline-block;
+}
+
+.hed {
+    color: #ffffff;
+}
+
+strong {
+    color: #FFFFFF;
+}
+
+
+h1 {
+    color: #ffffff;
+}
+
+
+
+.pfi-purchase .pfi-wait #pfi-msisdn-button-mt .pfi-button .pfi-purchase {
+    background: #cc001d;
+    margin-bottom: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    border-radius: 25px;
+}
+
+.pfi-purchase {
+    background: #cc001d;
+    margin-bottom: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    border-radius: 25px;
+}
+
+.pfi-wait {
+    background: #cc001d;
+    margin-bottom: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    border-radius: 25px;
+}
+
+
+.pfi-charge-notification {
+    font-size: 20px;
+}
+
+p#pfi-msisdn-message {
+    font-size: 15px;
+    text-align: center;
+}
+
+p#pfi-pin-message {
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.pfi-input input[type=text], .pfi-input input[type=tel] {
+    font-family: inherit;
+    #margin-left: 20%;
+    #margin-right: 20%;
+    #width: 60%;
+}
+
+.pfi-confirm {
+    background: #003399;
+    margin-bottom: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    border-radius: 25px;
+    margin-top: 15px;
+}
+
+.pfi-button .pfi-wait {
+    margin-bottom: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    border-radius: 25px;
+    margin-top: 15px;
+}
