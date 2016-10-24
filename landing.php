@@ -64,7 +64,7 @@
     <br>
     <img src="http://www.deepspace.ucsb.edu/wp-content/uploads/2015/04/NASA-LOGO_1-on-white-background.png" class="banner" alt="Header"> <br>
     Today's Special
-        <h2 style="color: deepskyblue">Buy A Space Shuttle Now - Click Here to Purchase for £4.50</h2></a><br><br>
+        <h2 style="color: deepskyblue">Would You Like To Buy A Space Shuttle ?? - Click Here to Purchase One</h2></a><br><br>
 </div>
 
 <br>
