@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="/slicknav/dist/slicknav.css">
     <link rel="stylesheet" href="/css/body.css" type="text/css">
     <link rel="stylesheet" href="/css/fonts.css" type="text/css">
-    <script src="/jquery-2.1.4.min.js"></script>
+    <script   src="https://code.jquery.com/jquery-3.1.1.js"   integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="   crossorigin="anonymous"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
     <script src="/slicknav/dist/jquery.slicknav.js"></script>
 
