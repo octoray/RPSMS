@@ -99,7 +99,7 @@
 
 <div class="footer">
     <br>
-    <img src="http://ridl.cfd.rit.edu/docs/posters/proposal%20posters/Logos%20and%20Images/NASA_Transparent.gif"  class="foot_logo" alt="Header"><br><br>
+    DEBUG:
     <?php require("./phpdb/phpdebug.php"); ?>
 
 </div>
