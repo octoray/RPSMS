@@ -52,8 +52,8 @@
     <h1>Davids Emporium Of Game Characters</h1>
 </div>
 
-<div id="success" style="display: none;">Success!!!!!!</div>
-<div id="halfway" style="display: none;">Almost Complete</div>
+<div class="block_1" id="success" style="display: none;">Success!!!!!!</div>
+<div class="block_1" id="halfway" style="display: none;">Almost Complete</div>
 
 <!-- 2nd block  -->
 <div class="block_66" data-pfi-area="true" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
