@@ -85,7 +85,7 @@ if ($conn->connect_error) {
 }
 
 $sql = 'INSERT INTO inproc (inbound, response)
-VALUES ("'.$_SERVER.'", "'.$data_json.'")';
+VALUES ("'.var_dump($_SERVER).'", "'.var_dump($data_json).'")';
 
 if ($conn->query($sql) === TRUE) {
     echo "New record created successfully";
