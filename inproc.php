@@ -67,7 +67,7 @@ echo $response;
 
 $data_json = json_decode($response, true);
 
-
+$data2 =  var_dump($data_json);
 file_put_contents('inproclog.txt', file_get_contents('php://input'));
 
 $response = 'hello world';
@@ -76,10 +76,10 @@ $today1 = date("Y-m-d H:i:s");
 $myFile = "inproclog.txt";
 $fh = fopen($myFile, 'a') or die("can't open file");
 $stringData = "\n";
-fwrite($fh, $today1. ":  BODY: " .implode(" ",$data_json));
+fwrite($fh, $today1. ":  BODY: " .implode("'",$data_json));
 fwrite($fh, $stringData);
 fwrite($fh, $stringData);
-fwrite($fh, $today1. ":  BODY: " .implode(" ",$_SERVER));
+fwrite($fh, $today1. ":  BODY: " .$data2);
 fwrite($fh, $stringData);
 fwrite($fh, $stringData);
 fwrite($fh, $stringData);
