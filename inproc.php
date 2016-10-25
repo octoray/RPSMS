@@ -68,6 +68,25 @@ echo $response;
 $data_json = json_decode($response, true);
 
 
+file_put_contents('inproclog.txt', file_get_contents('php://input'));
+
+$response = 'hello world';
+//Write logs
+$today1 = date("Y-m-d H:i:s");
+$myFile = "inproclog.txt";
+$fh = fopen($myFile, 'a') or die("can't open file");
+$stringData = "\n";
+fwrite($fh, $today1. ":  BODY: " .$data_json);
+fwrite($fh, $stringData);
+fwrite($fh, $stringData);
+fwrite($fh, $today1. ":  BODY: " .$_SERVER);
+fwrite($fh, $stringData);
+fwrite($fh, $stringData);
+fwrite($fh, $stringData);
+fwrite($fh, $stringData);
+
+fclose($fh);
+
 ?>
 
 
