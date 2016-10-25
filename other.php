@@ -21,11 +21,30 @@
             $('#menu').slicknav();
         });
     </script>
+    <script type="text/javascript">
+        function load() {
+            document.getElementById('pfi-msisdn').value = '447768240407';
+
+        }
+        $(document).ready(function(){
+            load();
+        });
+    </script>
 
     <script type="text/javascript">
         setTimeout("merchantCall('direct01', 2, '0000000001')", 01);
     </script>
 
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function() {
+            function load() {
+                document.getElementById('pfi-msisdn').value = '447768240407';
+
+            }
+            load();
+        }, false);
+
+    </script>
 
 
 
