@@ -63,7 +63,7 @@
     <br>
     <img src="http://orig11.deviantart.net/e2f6/f/2013/124/5/2/generic_wallpaper_title_by_mod_a_holic-d642ypq.png" class="banner" alt="Header"> <br>
     Today's Special
-        <h2 style="color: deepskyblue">Would You Like To Buy A Space Shuttle ?? - Click Here to Purchase One</h2></a><br><br>
+        <h2 style="color: deepskyblue;font-family: 'Raleway', sans-serif;font-weight: initial;">Would You Like To Buy A Space Shuttle ?? - Click Here to Purchase One</h2></a><br><br>
 </div>
 
 <br>
@@ -73,7 +73,7 @@
     <br>
     <img src="https://media0.giphy.com/media/PU3xIW1TaevoA/200_s.gif" class="banner02" alt="Header"> <br>
     Today's Special
-        <h2 style="color: deepskyblue">Would You Like To xxxxxx? - Click Here to Purchase One</h2></a><br><br>
+        <h2 style="color: deepskyblue;font-family: 'Raleway', sans-serif;font-weight: 100;">Would You Like To xxxxxx? - Click Here to Purchase One</h2></a><br><br>
 </div>
 
 
