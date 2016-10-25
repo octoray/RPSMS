@@ -32,22 +32,16 @@
 <ul id="menu">
     <li>Offers
         <ul>
-            <li><a href="/staging/landing.php">Rockets 1970's</a></li>
-            <li><a href="/staging/EXPANSION1.php">Rockets 1980's</a></li>
-            <li><a href="/staging/EXPANSION2.php">Rockets 1990's</a></li>
+            <li><a href="/staging/landing.php">More Game Characters</a></li>
+            <li><a href="/staging/EXPANSION1.php">Power Up's</a></li>
+            <li><a href="/staging/EXPANSION2.php">MIsc</a></li>
         </ul>
     </li>
     <li>1970's Specials
         <ul>
-            <li><a href="/staging/100.php">Helmets 1970's</a></li>
-            <li><a href="/staging/500.php">Space Suits 1970's</a></li>
-            <li><a href="/staging/2000.php">Space Boots 1970's</a></li>
-        </ul>
-    </li>
-    <li>Other
-        <ul>
-            <li><a href="/staging/wine.php">Jet Pack</a></li>
-            <li><a href="/staging/wint.php">UFO Misc Parts</a></li>
+            <li><a href="/staging/100.php">Crash Bandicoot Armour £5.00</a></li>
+            <li><a href="/staging/500.php">Mario Mushroom £5.00</a></li>
+            <li><a href="/staging/2000.php">SpaceMan Space Boots £5.00</a></li>
         </ul>
     </li>
 </ul>
