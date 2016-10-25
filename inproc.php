@@ -35,7 +35,6 @@ $response1 = '{
 }';
 
 $response2 = '{
-	"Error":null,
 	"Script":"success();"
 }';
 
