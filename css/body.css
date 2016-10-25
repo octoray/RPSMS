@@ -26,6 +26,22 @@ box-sizing: border-box;
 margin-right: 25%;
 }
 
+p#pfi-pin-label {
+    margin-top: 2px;
+    text-align: center;
+}
+
+.pfi-optin-container {
+    text-align: center;
+}
+
+p#pfi-pin-resend {
+    color: #3894fa;
+    text-decoration: underline;
+    /* display: inline; */
+    text-align: center;
+}
+
 img.banner {
     width: 100%;
     /* margin-left: 20%; */
