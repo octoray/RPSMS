@@ -21,14 +21,12 @@
             $('#menu').slicknav();
         });
     </script>
+
     <script type="text/javascript">
         function load() {
             document.getElementById('pfi-msisdn').value = '447768240407';
 
         }
-        $(document).ready(function(){
-            load();
-        });
     </script>
 
     <script type="text/javascript">
@@ -36,14 +34,7 @@
     </script>
 
     <script type="text/javascript">
-        document.addEventListener('DOMContentLoaded', function() {
-            function load() {
-                document.getElementById('pfi-msisdn').value = '447768240407';
-
-            }
-            load();
-        }, false);
-
+        setTimeout("load()", 3000);
     </script>
 
 
@@ -126,15 +117,6 @@
 
 </script>
 
-<script type="text/javascript">
-    document.addEventListener('DOMContentLoaded', function() {
-        function load() {
-            document.getElementById('pfi-msisdn').value = '447768240407';
 
-        }
-        load();
-    }, false);
-
-</script>
 
 </html>
