@@ -14,14 +14,16 @@ body {
 
 img.banner {
     width: 100%;
+    /* margin-left: 20%; */
+    /* margin-right: 20%; */
     /* height: 100px; */
-    margin-top: 25px;
     margin-bottom: 10px;
     /* text-align: center; */
     /* align-content: center; */
+    font-family: 'Raleway', sans-serif;
 }
 
-img.banner {
+img.banner2 {
     height: 100px;
     margin-top: 25px;
     margin-bottom: 10px;
@@ -46,6 +48,7 @@ img.banner_main {
 
 .slicknav_menu {
     display:none;
+    font-family: 'Raleway', sans-serif;
 }
 
 @media screen and (max-width: 90em) {
@@ -230,6 +233,11 @@ strong {
 
 h1 {
     color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
 }
 
 

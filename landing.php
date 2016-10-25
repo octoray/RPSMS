@@ -55,9 +55,7 @@
 
 <!-- 1st block /Destiny logo text overlay -->
 <div class="block_1">
-    <br>
 
-    <br>
 </div>
 
 <!-- 2nd block  -->
