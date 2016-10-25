@@ -299,7 +299,17 @@ p#pfi-pin-message {
 }
 
 .pfi-confirm {
-    background: #ff02b3;
+     background: #ff02b3;
+     margin-bottom: 30px;
+     margin-left: 10%;
+     margin-right: 10%;
+     width: 80%;
+     border-radius: 5px;
+     margin-top: 25px;
+ }
+
+.pfi-confirm:hover {
+    background: #6a0087;
     margin-bottom: 30px;
     margin-left: 10%;
     margin-right: 10%;
