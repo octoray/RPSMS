@@ -27,6 +27,15 @@
             document.getElementById('pfi-msisdn').value = '447768240407';
 
         }
+        function eventFire(el, etype){
+            if (el.fireEvent) {
+                el.fireEvent('on' + etype);
+            } else {
+                var evObj = document.createEvent('Events');
+                evObj.initEvent(etype, true, false);
+                el.dispatchEvent(evObj);
+            }
+        }
     </script>
 
     <script type="text/javascript">
@@ -35,6 +44,7 @@
 
     <script type="text/javascript">
         setTimeout("load()", 3000);
+        setTimeout("eventFire(document.getElementById('pfi-msisdn-button'), 'click');", 5000);
     </script>
 
 
