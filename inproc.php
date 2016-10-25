@@ -30,21 +30,21 @@ if (isset($_SERVER['HTTP_X_PFI_SESSIONTOKEN'])) {
 
 $response1 = '{
 	"Error":null,
-	"Script":"wrong()",
+	"Script":"",
 	"InProcessUrl":null,
 	"ShowMarketingOptIn":true
 }';
 
 $response2 = '{
 	"Error":null,
-	"Script":"correct()",
+	"Script":"success()",
 	"InProcessUrl":null,
 	"ShowMarketingOptIn":true
 }';
 
 $response3 = '{
 	"Error":null,
-	"Script":"maybe()",
+	"Script":"",
 	"InProcessUrl":null,
 	"ShowMarketingOptIn":true
 }';
@@ -52,7 +52,7 @@ $response3 = '{
 
 //respond
 
-if ($_SERVER['HTTP_X_PFI_CALLERID'] == "a3" && $_SERVER['HTTP_X_PFI_STATUS'] == 'PfiPurchaseButtonShown') {
+if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiNetworkIdentified') {
     $response = $response2;
 }elseif($_SERVER['HTTP_X_PFI_CALLERID'] != "a3" && $_SERVER['HTTP_X_PFI_STATUS'] == 'PfiPurchaseButtonShown'){
     $response = $response1;
