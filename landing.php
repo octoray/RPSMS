@@ -54,34 +54,28 @@
 
 <!-- 1st block /Destiny logo text overlay -->
 <div class="block_1">
+    <br>
 
+    <br>
 </div>
 
 <!-- 2nd block  -->
 <div class="block_66" data-pfi-service-id="2" data-pfi-button="true" data-pfi-button-id="purchase-main01" data-pfi-reference="dwpurchase01" data-pfi-area="true" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
-    <img src="http://wall-papers.info/images/cool-video-game-wallpapers/cool-video-game-wallpapers-18.jpg" class="banner" alt="Header"> <br>
+    <img src="http://orig11.deviantart.net/e2f6/f/2013/124/5/2/generic_wallpaper_title_by_mod_a_holic-d642ypq.png" class="banner" alt="Header"> <br>
     Today's Special
         <h2 style="color: deepskyblue">Would You Like To Buy A Space Shuttle ?? - Click Here to Purchase One</h2></a><br><br>
 </div>
 
 <br>
-<div class="block_66" data-pfi-service-id="2" data-pfi-button="true" data-pfi-button-id="purchase-main01" data-pfi-reference="dwpurchase01" data-pfi-area="true" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
-    <br>
-    <img src="http://wall-papers.info/images/cool-video-game-wallpapers/cool-video-game-wallpapers-18.jpg" class="banner" alt="Header"> <br>
-    Today's Special
-    <h2 style="color: deepskyblue">Would You Like To Buy A Space Shuttle ?? - Click Here to Purchase One</h2></a><br><br>
-</div>
 <br>
+
 <div class="block_66" data-pfi-service-id="2" data-pfi-button="true" data-pfi-button-id="purchase-main01" data-pfi-reference="dwpurchase01" data-pfi-area="true" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
-    <img src="http://wall-papers.info/images/cool-video-game-wallpapers/cool-video-game-wallpapers-18.jpg" class="banner" alt="Header"> <br>
+    <img src="hhttps://media.giphy.com/media/aHKpXstxvNf56/giphy.gif" class="banner02" alt="Header"> <br>
     Today's Special
-    <h2 style="color: deepskyblue">Would You Like To Buy A Space Shuttle ?? - Click Here to Purchase One</h2></a><br><br>
+        <h2 style="color: deepskyblue">Would You Like To xxxxxx? - Click Here to Purchase One</h2></a><br><br>
 </div>
-
-
-
 
 
 <div class="footer">
