@@ -5,7 +5,6 @@
 
     <meta name="viewport" content="width=device-width">
     <meta charset="UTF-8">
-    <base href="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/" >
     <!-- activate Menu -->
     <link rel="stylesheet" href="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/slicknav/dist/slicknav.css">
     <link rel="stylesheet" href="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/css/body.css" type="text/css">
