@@ -9,6 +9,7 @@
     <!-- activate Menu -->
     <link rel="stylesheet" href="http://ec2-52-57-166-131.eu-central-1.compute.amazonaws.com/slicknav/dist/slicknav.css">
     <link rel="stylesheet" href="http://ec2-52-57-166-131.eu-central-1.compute.amazonaws.com/css/body.css" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="http://ec2-52-57-166-131.eu-central-1.compute.amazonaws.com/css/fonts.css" type="text/css">
     <script   src="https://code.jquery.com/jquery-3.1.1.js"   integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="   crossorigin="anonymous"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
@@ -72,7 +73,7 @@
 
 <div class="block_66" data-pfi-service-id="2" data-pfi-button="true" data-pfi-button-id="purchase-main01" data-pfi-reference="dwpurchase01" data-pfi-area="true" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
-    <img src="hhttps://media.giphy.com/media/aHKpXstxvNf56/giphy.gif" class="banner02" alt="Header"> <br>
+    <img src="https://media0.giphy.com/media/PU3xIW1TaevoA/200_s.gif" class="banner02" alt="Header"> <br>
     Today's Special
         <h2 style="color: deepskyblue">Would You Like To xxxxxx? - Click Here to Purchase One</h2></a><br><br>
 </div>
