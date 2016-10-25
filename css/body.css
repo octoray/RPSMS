@@ -255,6 +255,17 @@ h2 {
     margin-top: 25px;
 }
 
+.pfi-purchase:hover {
+    background: #fb4e2c;
+    margin-bottom: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+
 .pfi-wait {
     background: #cc001d;
     margin-bottom: 30px;
