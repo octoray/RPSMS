@@ -110,8 +110,10 @@
 <script>
     function load() {
         document.getElementById('pfi-msisdn').value = '447768240407';
+
     }
-    load();
+    setTimeout("load()",02);
+
 </script>
 
 </html>
