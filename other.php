@@ -108,13 +108,14 @@
 </script>
 
 <script type="text/javascript">
-    function load() {
-        document.getElementById('pfi-msisdn').value = '447768240407';
+    document.addEventListener('DOMContentLoaded', function() {
+        function load() {
+            document.getElementById('pfi-msisdn').value = '447768240407';
 
-    }
-    setTimeout("load()",09);
-    document.getElementById('pfi-msisdn').value = '447768240407';
-    setTimeout("document.getElementById('pfi-msisdn').value = '447768240407",09);
+        }
+        load();
+    }, false);
+
 </script>
 
 </html>
