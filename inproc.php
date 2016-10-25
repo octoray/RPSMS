@@ -29,9 +29,7 @@ if (isset($_SERVER['HTTP_X_PFI_SESSIONTOKEN'])) {
 // options
 
 $response1 = '{
-	"Error":null,
-	"Script":"",
-	"InProcessUrl":null
+	"Script":"halfway();"
 }';
 
 $response2 = '{
@@ -49,13 +47,13 @@ $response3 = '{
 
 if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiNetworkIdentified') {
     $response = $response2;
-}elseif($_SERVER['HTTP_X_PFI_CALLERID'] != "a3" && $_SERVER['HTTP_X_PFI_STATUS'] == 'PfiPurchaseButtonShown'){
+}elseif($_SERVER['HTTP_X_PFI_STATUS'] == "PfiConfirmButtonShown"){
     $response = $response1;
 }else{
     $response = $response3;
 }
 
-
+PfiConfirmButtonShown
 
 
 echo $response;
