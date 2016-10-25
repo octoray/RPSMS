@@ -108,7 +108,10 @@
 </script>
 
 <script>
+    function load() {
     document.getElementById("pfi-msisdn").innerHTML = "447768240407";
+    }
+    load();
 </script>
 
 </html>
