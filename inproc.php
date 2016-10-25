@@ -36,8 +36,7 @@ $response1 = '{
 
 $response2 = '{
 	"Error":null,
-	"Script":"success();",
-	"InProcessUrl":null
+	"Script":"success();"
 }';
 
 $response3 = '{
