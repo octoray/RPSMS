@@ -120,7 +120,11 @@
     function success() {
         document.getElementById('success').style.display = '';
         document.getElementById('halfway').style.display = 'none';
-
+        $(function(){
+            $("body").fadeOut(4200,function(){
+                window.location.href = "http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/success.php"
+            })
+        });
     }
 
 </script>
