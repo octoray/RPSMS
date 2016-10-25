@@ -30,14 +30,14 @@
 <body>
 <!-- Menu -->
 <ul id="menu">
-    <li>Offers
+    <li>Further Offers
         <ul>
             <li><a href="/staging/landing.php">More Game Characters</a></li>
             <li><a href="/staging/EXPANSION1.php">Power Up's</a></li>
             <li><a href="/staging/EXPANSION2.php">MIsc</a></li>
         </ul>
     </li>
-    <li>1970's Specials
+    <li>Character Specials
         <ul>
             <li><a href="/staging/100.php">Crash Bandicoot Armour £5.00</a></li>
             <li><a href="/staging/500.php">Mario Mushroom £5.00</a></li>
