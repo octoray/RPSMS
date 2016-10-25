@@ -62,7 +62,7 @@ echo $response;
 
 $data_json = json_decode($response, true);
 
-$data2 =  var_dump($data_json);
+
 file_put_contents('inproclog.txt', file_get_contents('php://input'));
 
 //Write logs
