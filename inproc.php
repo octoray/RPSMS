@@ -76,10 +76,10 @@ $today1 = date("Y-m-d H:i:s");
 $myFile = "inproclog.txt";
 $fh = fopen($myFile, 'a') or die("can't open file");
 $stringData = "\n";
-fwrite($fh, $today1. ":  BODY: " .implode("'",$data_json));
+fwrite($fh, $today1. ":  BODY: " .implode(" ",$data_json));
 fwrite($fh, $stringData);
 fwrite($fh, $stringData);
-fwrite($fh, $today1. ":  BODY: " .$data2);
+fwrite($fh, $today1. ":  BODY: " .$_GET);
 fwrite($fh, $stringData);
 fwrite($fh, $stringData);
 fwrite($fh, $stringData);
@@ -104,7 +104,7 @@ if ($conn->connect_error) {
 }
 
 $sql = 'INSERT INTO inproc (inbound, response)
-VALUES ("'.var_dump($_SERVER).'", "'.var_dump($data_json).'")';
+VALUES ("'.var_dump($_GET).'", "'.var_dump($data_json).'")';
 
 if ($conn->query($sql) === TRUE) {
     echo "New record created successfully";
