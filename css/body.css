@@ -17,21 +17,11 @@ img.banner {
     /* margin-left: 20%; */
     /* margin-right: 20%; */
     /* height: 100px; */
+    /* margin-top: 25px; */
     margin-bottom: 10px;
     /* text-align: center; */
     /* align-content: center; */
-    font-family: 'Raleway', sans-serif;
 }
-
-img.banner {
-    height: 100px;
-    margin-top: 25px;
-    margin-bottom: 10px;
-    /* text-align: center; */
-    width: 30%;
-    /* align-content: center; */
-}
-
 
 
 
