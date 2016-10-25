@@ -53,6 +53,7 @@
 </div>
 
 <div class="block_1" id="success" style="display: none;">Success!!!!!!</div>
+<img id="halfway" src="http://i.imgur.com/V9NFmT5.gif" class="banner" style="display: none;">
 <div class="block_1" id="halfway" style="display: none;">Almost Complete</div>
 
 <!-- 2nd block  -->
