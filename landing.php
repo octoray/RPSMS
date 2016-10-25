@@ -73,21 +73,21 @@
 <br>
 
 
-<div class="block_66" data-pfi-service-id="3" data-pfi-button="true" data-pfi-button-id="purchase-main02" data-pfi-reference="dwpurchase02"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
+<div class="block_66" data-pfi-service-id="4" data-pfi-button="true" data-pfi-button-id="purchase-main02" data-pfi-reference="dwpurchase02"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
     <img src="http://www.gearfuse.com/wp-content/uploads/2010/06/retro-gaming-3d-3.gif" class="banner02" alt="Header"> <br>
     Retro Spaceman
-    <h2 style="color: deepskyblue;font-family: 'Raleway', sans-serif;font-weight: 100;">Buy spaceman Upgrade for £3.00 - Click Here!</h2></a><br><br>
+    <h2 style="color: deepskyblue;font-family: 'Raleway', sans-serif;font-weight: 100;">Subscribe to SpaceMan Upgrades for £3.00 Per Day - Click Here!</h2></a><br><br>
 </div>
 
 <br>
 
 
-<div class="block_66" data-pfi-service-id="4" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="dwpurchase03"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
+<div class="block_66" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="dwpurchase03"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
     <img src="http://i.kinja-img.com/gawker-media/image/upload/s--w2nFVINY--/ryeouokmadri0gex4zvu.gif" class="banner02" alt="Header"> <br>
     Mario
-    <h2 style="color: deepskyblue;font-family: 'Raleway', sans-serif;font-weight: 100;">Buy Mario Upgrade for £5.00 - Click Here!</h2></a><br><br>
+    <h2 style="color: deepskyblue;font-family: 'Raleway', sans-serif;font-weight: 100;">Enter Competition to win Mario Upgrade for £5.00 - Click Here!</h2></a><br><br>
 </div>
 
 
