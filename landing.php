@@ -49,7 +49,7 @@
 
 <!-- 1st block /Destiny logo text overlay -->
 <div class="block_1">
-
+    <h1>Davids Emporium Of Game Characters</h1>
 </div>
 
 <!-- 2nd block  -->
