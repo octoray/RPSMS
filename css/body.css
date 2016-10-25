@@ -18,6 +18,13 @@ body {
     /* font-family: Arial, Helvetica, sans-serif; */
 }
 
+div.pfi-input input[type=text], div.pfi-input input[type=tel]
+{
+width: 50%;
+margin-left: 25%;
+box-sizing: border-box;
+margin-right: 25%;
+}
 
 img.banner {
     width: 100%;
