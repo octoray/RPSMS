@@ -23,6 +23,11 @@
         });
     </script>
 
+    <script type="text/javascript">
+        setTimeout("merchantCall('direct01', 2, '0000000001')", 01);
+    </script>
+
+
 
 
 
@@ -51,48 +56,13 @@
 <div class="block_1">
     <h1>Davids Emporium Of Game Characters</h1>
 </div>
+<div data-pfi-area="true"></div>
 
 <div class="block_1" id="success" style="display: none;">Success!!!!!!</div>
-<img id="halfway" src="http://smartmo.unl.edu/portal_includes/images/loading_circle.gif" class="bannerload" style="display: none;">
 <div class="block_1" id="halfway" style="display: none;">Almost Complete</div>
-
-<!-- 2nd block  -->
-<div class="block_66" data-pfi-area="true" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
-    <br>
-    <img src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/images/generic_wallpaper_title_by_mod_a_holic-d642ypq.png" class="banner" alt="Header"> <br>
-    Today's Specials
-        <h2 style="color: white;font-family: 'Raleway', sans-serif;font-weight: 5000;">Buy Your Game Characters and Upgrades Below</h2></a><br><br>
-</div>
-
-<br>
+<img id="asdasd" src="https://cdn0.vox-cdn.com/thumbor/oyjHbblkOmH7LW-GIx56r9aGXd8=/800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3691834/terry-2x.0.gif" class="bannerload" ">
 
 
-<div class="block_66" data-pfi-service-id="2" data-pfi-button="true" data-pfi-button-id="purchase-main01" data-pfi-reference="<?php echo $out1;?>"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
-    <br>
-    <img src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/images/200_s.gif" class="banner02" alt="Header"> <br>
-    Crash Bandicoot
-    <h2 style="color: deepskyblue;font-family: 'Raleway', sans-serif;font-weight: 100;">Buy Crash Bandicoot charcater for £10.00 - Click Here!</h2></a><br><br>
-</div>
-
-<br>
-
-
-<div class="block_66" data-pfi-service-id="4" data-pfi-button="true" data-pfi-button-id="purchase-main02" data-pfi-reference="<?php echo $out2;?>"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
-    <br>
-    <img src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/images/retro-gaming-3d-3.gif" class="banner02" alt="Header"> <br>
-    Retro Spaceman
-    <h2 style="color: deepskyblue;font-family: 'Raleway', sans-serif;font-weight: 100;">Subscribe to SpaceMan Upgrades for £3.00 Per Day - Click Here!</h2></a><br><br>
-</div>
-
-<br>
-
-
-<div class="block_66" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
-    <br>
-    <img src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/images/ryeouokmadri0gex4zvu.gif" class="banner02" alt="Header"> <br>
-    Mario
-    <h2 style="color: deepskyblue;font-family: 'Raleway', sans-serif;font-weight: 100;">Enter Competition to win Mario Upgrade for £5.00 - Click Here!</h2></a><br><br>
-</div>
 
 
 <div class="footer">
