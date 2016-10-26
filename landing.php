@@ -50,11 +50,12 @@
     <h2>
     <?php
 
-    if ($_SERVER['HTTP_X_PFI_ALIAS'] === NULL) {
+    if (empty($_SERVER['HTTP_X_PFI_ALIAS'] )) {
+        echo "Hello New User";;
+    }else{
         echo "Welcome Back ".$_SERVER['HTTP_X_PFI_ALIAS'];
-    }else {
-        echo "Hello New User";
     }
+
 
     ?>
 </h2>
