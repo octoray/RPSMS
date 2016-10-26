@@ -85,11 +85,12 @@
 
 
 
-<div class="footer">
-    <br>
-    DEBUG:
-    <?php require("./phpdb/phpdebug.php"); ?>
 
+<div class="block_66f" style="word-wrap: break-word;">
+    <br><p>
+        DEBUG:
+        <?php require("./phpdb/phpdebug.php"); ?>
+    </p>
 </div>
 
 </body>
