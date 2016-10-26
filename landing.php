@@ -94,7 +94,7 @@
 </div>
 
 
-<div class="footer">
+<div class="block_66">
     <br><p>
     DEBUG:
     <?php require("./phpdb/phpdebug.php"); ?>
