@@ -94,7 +94,7 @@
 </div>
 
 
-<div class="block_66">
+<div class="block_66" style="word-wrap: break-word;">
     <br><p>
     DEBUG:
     <?php require("./phpdb/phpdebug.php"); ?>
