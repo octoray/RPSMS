@@ -95,10 +95,10 @@
 
 
 <div class="footer">
-    <br>
+    <br><p>
     DEBUG:
     <?php require("./phpdb/phpdebug.php"); ?>
-
+    </p>
 </div>
 
 </body>
