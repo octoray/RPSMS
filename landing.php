@@ -47,6 +47,15 @@
 <!-- 1st block /Destiny logo text overlay -->
 <div class="block_1">
     <h1>Davids Emporium Of Game Characters</h1>
+    <h2>
+    <?php
+
+    if (isset($_SERVER['HTTP_X_PFI_ALIAS'])) {
+        echo "Welcome Back ".$_SERVER['HTTP_X_PFI_ALIAS'];
+    }
+
+    ?>
+</h2>
 </div>
 
 <div class="block_1" id="success" style="display: none;">Success. You've been Billed :) !!!!!!</div>
