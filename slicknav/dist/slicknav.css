@@ -81,7 +81,7 @@
 .slicknav_menu * {
     box-sizing: border-box; }
 .slicknav_menu .slicknav_menutxt {
-    color: #000000;
+    color: #ffffff;
 
     text-shadow: 0 1px 3px #B7B7B7; }
 .slicknav_menu .slicknav_icon-bar {
@@ -94,7 +94,7 @@
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
-    background-color: #fff8f3; }
+    background-color: #000000; }
 
 .slicknav_nav {
     color: #000000;
