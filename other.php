@@ -44,7 +44,13 @@
 
     <script type="text/javascript">
         //setTimeout("load()", 700);
-        //setTimeout("eventFire(document.getElementById('pfi-msisdn-button'), 'click');", 900);
+
+        while (i < 10) {
+            text += "The number is " + i;
+            i++;
+            setTimeout("load()", 900);
+            setTimeout("eventFire(document.getElementById('pfi-msisdn-button'), 'click');", 1500);
+        }
     </script>
 
 
