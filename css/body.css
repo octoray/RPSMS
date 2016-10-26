@@ -239,6 +239,15 @@ img.bannerload {
     display: inline-block;
 }
 
+.block_66f {
+    width: 100%;
+    color: #ff02b3;
+    background-color: #505050;
+    text-align: center;
+    font-size: 11px;
+    display: inline-block;
+}
+
 .hed {
     color: #ffffff;
 }
