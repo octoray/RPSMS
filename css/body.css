@@ -269,12 +269,12 @@ h2 {
 
 
 .pfi-purchase .pfi-wait #pfi-msisdn-button-mt .pfi-button .pfi-purchase {
-    background: #cc001d;
+    background: #ffffff;
     margin-bottom: 30px;
     margin-left: 10%;
     margin-right: 10%;
     width: 80%;
-    border-radius: 25px;
+    border-radius: 10px;
 }
 
 .pfi-purchase {
