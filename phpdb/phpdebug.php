@@ -10,6 +10,6 @@ echo"response header";
 echo print_r($http_response_header);
 echo"<br>";
 echo"Request";
-echo print_r($_REQUEST);
+echo print_r($_COOKIE);
 
 ?>
