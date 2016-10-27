@@ -100,10 +100,10 @@
     <img src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/images/ryeouokmadri0gex4zvu.gif" class="banner02" alt="Header"> <br>
     Mario: What Was Mario's Sidekick Name?
 </div><br><br>
-<span style="display: inline;" class="comp" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>">
-    <button class="myButton">Toad</button>
-    <button class="myButton">Luigi</button>
-    <button class="myButton">Bowser</button>
+<span style="display: inline;" onclick="location.href='#top'" class="comp" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>">
+    <button class="myButton" onclick="location.href='#top'" >Toad</button>
+    <button class="myButton" onclick="location.href='#top'">Luigi</button>
+    <button class="myButton" onclick="location.href='#top'">Bowser</button>
 </span>
 <br>
 <br>
