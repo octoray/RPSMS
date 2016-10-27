@@ -99,8 +99,12 @@
     <br>
     <img src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/images/ryeouokmadri0gex4zvu.gif" class="banner02" alt="Header"> <br>
     Mario
-    <h2 style="color: deepskyblue;font-family: 'Raleway', sans-serif;font-weight: 100;">Enter Competition to win Mario Upgrade for £5.00 - Click Here!</h2></a><br><br>
-</div>
+</div><br>
+<span style="display: inline;" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>">
+    <button>1</button>
+    <button>1</button>
+    <button>1</button>
+</span>
 
 
 <div class="block_66f" style="word-wrap: break-word;">
