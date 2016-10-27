@@ -30,15 +30,15 @@
     <li>Further Offers
         <ul>
             <li><a href="/other.php">More Game Characters</a></li>
-            <li><a href="#">Power Up's</a></li>
-            <li><a href="#">MIsc</a></li>
+            <li><a href="/other.php">Power Up's</a></li>
+            <li><a href="/other.php">MIsc</a></li>
         </ul>
     </li>
     <li>Character Specials
         <ul>
-            <li><a href="#">Crash Bandicoot Armour £5.00</a></li>
-            <li><a href="#">Mario Mushroom £5.00</a></li>
-            <li><a href="#">SpaceMan Space Boots £5.00</a></li>
+            <li><a href="/other.php">Crash Bandicoot Armour £5.00</a></li>
+            <li><a href="/other.php">Mario Mushroom £5.00</a></li>
+            <li><a href="/other.php">SpaceMan Space Boots £5.00</a></li>
         </ul>
     </li>
 </ul>

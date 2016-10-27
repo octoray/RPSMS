@@ -56,16 +56,16 @@
 <ul id="menu">
     <li>Further Offers
         <ul>
-            <li><a href="/other.php">More Game Characters</a></li>
-            <li><a href="#">Power Up's</a></li>
-            <li><a href="#">MIsc</a></li>
+            <li><a href="/">More Game Characters</a></li>
+            <li><a href="/">Power Up's</a></li>
+            <li><a href="/">MIsc</a></li>
         </ul>
     </li>
     <li>Character Specials
         <ul>
-            <li><a href="#">Crash Bandicoot Armour £5.00</a></li>
-            <li><a href="#">Mario Mushroom £5.00</a></li>
-            <li><a href="#">SpaceMan Space Boots £5.00</a></li>
+            <li><a href="/">Crash Bandicoot Armour £5.00</a></li>
+            <li><a href="/">Mario Mushroom £5.00</a></li>
+            <li><a href="/">SpaceMan Space Boots £5.00</a></li>
         </ul>
     </li>
 </ul>
@@ -81,10 +81,6 @@
 <div class="block_1" id="success" style="display: none;">Success!!!!!!</div>
 <div class="block_1" id="halfway" style="display: none;">Almost Complete</div>
 <img id="asdasd" src="https://cdn0.vox-cdn.com/thumbor/oyjHbblkOmH7LW-GIx56r9aGXd8=/800x0/filters:no_upscale()/cdn0.vox-cdn.com/uploads/chorus_asset/file/3691834/terry-2x.0.gif" class="bannerload" ">
-
-
-
-
 
 <div class="block_66f" style="word-wrap: break-word;">
     <br><p>
