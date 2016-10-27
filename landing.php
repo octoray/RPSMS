@@ -99,8 +99,8 @@
     <br>
     <img src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/images/ryeouokmadri0gex4zvu.gif" class="banner02" alt="Header"> <br>
     Mario
-</div><br>
-<span style="display: inline;" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>">
+</div><br><br>
+<span style="display: inline;" class="block_66" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>">
     <button>1</button>
     <button>1</button>
     <button>1</button>
