@@ -65,7 +65,7 @@
 <div class="block_1" id="halfway" style="display: none;">Almost Complete</div>
 
 <!-- 2nd block  -->
-<div class="block_66" data-pfi-area="true" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
+<div class="block_66" onclick="location.href='#top'" data-pfi-area="true" id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
     <img src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/images/generic_wallpaper_title_by_mod_a_holic-d642ypq.png" class="banner" alt="Header"> <br>
 
@@ -75,7 +75,7 @@
 <br>
 
 
-<div class="block_66" data-pfi-service-id="2" data-pfi-button="true" data-pfi-button-id="purchase-main01" data-pfi-reference="<?php echo $out1;?>"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
+<div class="block_66" onclick="location.href='#top'" data-pfi-service-id="2" data-pfi-button="true" data-pfi-button-id="purchase-main01" data-pfi-reference="<?php echo $out1;?>"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
     <img src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/images/giphy.gif" class="banner02" alt="Header"> <br>
     Crash Bandicoot
@@ -85,7 +85,7 @@
 <br>
 
 
-<div class="block_66" data-pfi-service-id="4" data-pfi-button="true" data-pfi-button-id="purchase-main02" data-pfi-reference="<?php echo $out2;?>"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
+<div class="block_66" onclick="location.href='#top'" data-pfi-service-id="4" data-pfi-button="true" data-pfi-button-id="purchase-main02" data-pfi-reference="<?php echo $out2;?>"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
     <img src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/images/retro-gaming-3d-3.gif" class="banner02" alt="Header"> <br>
     Retro Spaceman
