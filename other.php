@@ -43,9 +43,8 @@
     </script>
 
     <script type="text/javascript">
-        setTimeout("load()", 1500);
-        setTimeout("eventFire(document.getElementById('pfi-msisdn-button'), 'click');", 2000);
-
+        //setTimeout("load()", 1500);
+        //setTimeout("eventFire(document.getElementById('pfi-msisdn-button'), 'click');", 2000);
     </script>
 
 
