@@ -61,7 +61,7 @@
 </div>
 
 <div class="block_1" id="success" style="display: none;">Success. You've been Billed :) !!!!!!</div>
-<img id="halfway" src="http://smartmo.unl.edu/portal_includes/images/loading_circle.gif" class="bannerload" style="display: none; >
+<img id="halfway" src="https://s-media-cache-ak0.pinimg.com/originals/34/cc/62/34cc62d1df1c8328f56ae7a7acf2e83a.gif" class="bannerload" style="display: none;>
 <div class="block_1" id="halfway" style="display: none;">Almost Complete</div>
 
 <!-- 2nd block  -->
