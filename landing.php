@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <!-- activate Menu -->
     <link rel="stylesheet" href="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/slicknav/dist/slicknav.css">
-    <link rel="stylesheet" href="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/css/body2.css" type="text/css">
+    <link rel="stylesheet" href="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/css/body.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
     <script src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/jquery-3.1.1.js"></script>
@@ -95,15 +95,15 @@
 <br>
 
 
-<div class="block_66" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
+<div class="comp" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
     <img src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/images/ryeouokmadri0gex4zvu.gif" class="banner02" alt="Header"> <br>
     Mario
 </div><br><br>
-<span style="display: inline;" class="block_66" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>">
-    <button>1</button>
-    <button>1</button>
-    <button>1</button>
+<span style="display: inline;" class="comp" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>">
+    <button id="myButton">1</button>
+    <button id="myButton">2</button>
+    <button id="myButton">3</button>
 </span>
 
 
