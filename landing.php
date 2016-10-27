@@ -95,15 +95,15 @@
 <br>
 
 
-<div class="comp" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
+<div class="block_66" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>"  id="showmeee" style="<?php if ($_SERVER['HTTP_X_PFI_STATUS'] == 'PfiHybridSession') {echo "display:none";}else{echo "";}; ?>" >
     <br>
     <img src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/images/ryeouokmadri0gex4zvu.gif" class="banner02" alt="Header"> <br>
     Mario
 </div><br><br>
 <span style="display: inline;" class="comp" data-pfi-service-id="5" data-pfi-button="true" data-pfi-button-id="purchase-main03" data-pfi-reference="<?php echo $out3;?>">
-    <button id="myButton">1</button>
-    <button id="myButton">2</button>
-    <button id="myButton">3</button>
+    <button class="myButton">1</button>
+    <button class="myButton">2</button>
+    <button class="myButton">3</button>
 </span>
 
 
