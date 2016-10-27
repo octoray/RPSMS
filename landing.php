@@ -48,16 +48,15 @@
 <div class="block_1">
     <h1>Davids Emporium Of Game Characters</h1>
     <h2>
-    <?php
 
+    <?php
     if (empty($_SERVER['HTTP_X_PFI_ALIAS'] )) {
         echo "Hello New User";;
     }else{
         echo "Welcome Back ".$_SERVER['HTTP_X_PFI_ALIAS'];
     }
-
-
     ?>
+
 </h2>
 </div>
 
