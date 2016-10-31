@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <!-- activate Menu -->
     <link rel="stylesheet" href="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/slicknav/dist/slicknav.css">
-    <link rel="stylesheet" href="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/css/body.css" type="text/css">
+    <link rel="stylesheet" href="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/css/body2.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
 
     <script src="http://ec2-52-57-166-45.eu-central-1.compute.amazonaws.com/jquery-3.1.1.js"></script>
